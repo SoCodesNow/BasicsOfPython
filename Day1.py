@@ -5,8 +5,6 @@ Age = "01"
 print("Name is - ", Name)
 print("Age is - ", Age)
 
-
-print("--------------------------")
 print("-------typecasting--------")
 # TypeCasting
 
