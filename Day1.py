@@ -15,3 +15,5 @@ Temp = int(33.5)
 print(Weight_Char)
 print(Age)
 print(Temp)
+#test
+print(Temp+5)
